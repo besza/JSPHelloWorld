@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%
     String userEmail = "user@epam.com";
     String userPassword = "kacsa";
